@@ -1,0 +1,8 @@
+.container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+  .container h2 {
+    color: red;
+    font-size: 40px; }
