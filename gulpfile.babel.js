@@ -28,7 +28,7 @@ gulp.task('babel',() => {
 gulp.task('js-watch', ['babel'], browserSync.reload);
 
 // The static server
-gulp.task('serve', ['sass','babel'], function() {
+gulp.task('serve', ['sass','babel'], () => {
     browserSync.init({
         server: {
             baseDir: "./"
