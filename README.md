@@ -50,7 +50,7 @@ gulp -v
 //  => Local version 3.9.0
 ```
 
-##### 2.安装常用插件
+##### 2.安装常用[插件](http://gulpjs.com/plugins/)
 
  初始化项目目录
  
@@ -95,6 +95,12 @@ gulp.task('serve', ['sass'], function() {
 
 ```
 
+#####4. [Browsersync](http://www.browsersync.cn/)可以同时在PC、平板、手机等设备下进项调试
+
+![sync-demo1](https://camo.githubusercontent.com/b47bf2842171fd65098f9ff0d617c4a8c0219709/687474703a2f2f7777772e62726f7773657273796e632e636e2f696d672f73796e632d64656d6f2e676966)
+
+
+![sync-demo2](https://camo.githubusercontent.com/492ccb2c54bbf3ecd46878065be354c1a99052de/687474703a2f2f7777772e62726f7773657273796e632e636e2f696d672f7363726f6c6c2d64656d6f2e676966)
 
 ## ES6 代码转化
 
