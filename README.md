@@ -2,11 +2,11 @@
 
 本系列文章主要讲解如何用 gulp 搭建一个前端工程化项目；分为初、中、高三篇文章：
 
-    * 初级篇包括常见的 Sass 编译、Browsersync 自动刷新、代码合并压缩、ES6 代码转换等；
+    * 初级篇: 包括常见的 Sass 编译、Browsersync 自动刷新、代码合并压缩、ES6 代码转换等；
 
-    * 中级篇包括 browserify 的配置 、CommonJs 和 ES6 Module 的模块化编程风格；
+    * 中级篇: 包括 browserify 的配置 、CommonJs 和 ES6 Module 的模块化编程风格；
 
-    * 高级篇；高级篇包括 webpack 的构建和 React 的实践。
+    * 高级篇: 包括 webpack 的构建和 React 的实践；
 
 
 
