@@ -10,7 +10,7 @@
 
 
 
-#### 一.  [使用 gulp 搭建前端环境(入门篇)](https://github.com/chenbin92/ES6-with-gulp-babel)
+#### 一.  [使用 gulp 搭建前端环境(入门篇)](https://github.com/chenbin92/ES6-with-gulp-babel/issues/3)
 
     1.1 gulp 入门基础
     1.2 配置常用插件
