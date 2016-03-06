@@ -10,7 +10,7 @@
 
 
 
-#### 一.  [使用 gulp 搭建前端环境(入门篇)](https://github.com/chenbin92/ES6-with-gulp-babel/issues/3)
+##### 一.  [使用 gulp 搭建前端环境(入门篇)](https://github.com/chenbin92/ES6-with-gulp-babel/issues/3)
 
     1.1 gulp 入门基础
     1.2 配置常用插件
@@ -19,7 +19,7 @@
     1.5 参考文档
 
 
-#### 二.  [使用 gulp 搭建前端环境之CommonJs & ES6 模块化(中级篇)](https://github.com/chenbin92/ES6-with-gulp-babel/issues/4)
+##### 二.  [使用 gulp 搭建前端环境之CommonJs & ES6 模块化(中级篇)](https://github.com/chenbin92/ES6-with-gulp-babel/issues/4)
 
     2.1 browserify 简介
     2.2 编写 CommonJS 模块示例
@@ -28,5 +28,17 @@
     2.5 参考文档
 
 
-#### 三.  [使用 `gulp` 搭建前端环境之Webpack & React(高级篇)](https://github.com/chenbin92/ES6-with-gulp-babel/issues/5)
-    待完成...
+##### 三.  [使用 gulp 搭建前端环境之 ionic 项目实践总结(高级篇)](https://github.com/chenbin92/ES6-with-gulp-babel/issues/6)
+    
+    3.1 前言
+    3.2 angular 目录结构简介
+    3.3 ionic 目录结构简介
+    3.4 重构 ionic 目录结构
+       3.4.1 区分 SRC 和 WWW
+       3.4.2 切换 Development、Staging、Production环境
+    3.5 gulp 配置详解
+    3.6 升级到 ionic2 
+    3.7 参考文档
+    
+完成
+
