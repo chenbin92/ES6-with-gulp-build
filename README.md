@@ -6,7 +6,7 @@
 
     * 中级篇: 包括 browserify 的配置 、CommonJs 和 ES6 Module 的模块化编程风格；
 
-    * 高级篇: 包括 webpack 的构建和 React 的实践；
+    * 高级篇: 使用 gulp 搭建前端环境之 ionic 项目实践总结；
 
 
 
