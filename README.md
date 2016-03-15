@@ -40,6 +40,6 @@
     3.6 升级到 ionic2 
     3.7 参考文档
     
-##### [详细步骤及示例请移步至 ionic quickstarter with gulp](https://github.com/chenbin92/ionic-quickstarter-with-gulp)
+##### 四.  [详细步骤及示例请移步至 ionic quickstarter with gulp](https://github.com/chenbin92/ionic-quickstarter-with-gulp)
 
    完成
